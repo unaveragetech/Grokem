@@ -1,0 +1,38 @@
+# SDUC License (Small Dev Use Clause)
+
+**Copyright (c) 2024 Jesse Winghart**
+
+Permission is hereby granted, free of charge, to any **small developer** or **content creator** obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software with the following conditions:
+
+## 1. **Permitted Use (Non-Commercial)**
+   Small developers and content creators may:
+   - **Use**, **copy**, **modify**, **merge**, **publish**, and **distribute** the Software.
+   - **Sublicense** or **sell** copies of the Software only for **non-commercial**, **personal**, or **creative projects**.
+
+## 2. **Production Use (Commercial)**
+   - Any use of the Software for **commercial purposes**, **profit generation**, or **production deployment** (including within a business, product, or corporate setting) is **prohibited** unless proper **attribution** is given to:
+     - **Tcoder-beelzebub**
+     - **The Infi Dev Team**
+   - Attribution must be prominently displayed in any documentation, credits, or public material accompanying the project.
+
+## 3. **Fair Use Clause**
+   The following are considered **Fair Use** under this license:
+   - **Educational Use**: The Software may be freely used in educational settings, including for teaching, research, and academic purposes, provided that proper attribution is included where applicable.
+   - **Open-Source Contributions**: Developers contributing to other open-source projects may use portions of the Software, provided that contributions remain non-commercial and the Software's origin (Tcoder-beelzebub and The Infi Dev Team) is attributed.
+   - **Non-Profit and Charity Work**: Non-profit organizations or charity projects may use the Software without attribution, as long as the project aligns with non-commercial goals and is not monetized.
+
+## 4. **Restrictions**
+   - **Commercial Use Without Attribution**: Any commercial, for-profit, or production-related use of the Software **without attribution** to **Tcoder-beelzebub** or **The Infi Dev Team** is strictly **prohibited**.
+   - **Reselling as a Product**: The Software cannot be repackaged and sold as a standalone product or service without explicit written permission.
+   - **Misrepresentation**: Users of the Software are prohibited from misrepresenting the origin or authorship of the code.
+
+## 5. **Attribution**
+   When attribution is required for commercial or production use, the following must be included in any project documentation, product credits, or visible material:
+   ```
+   Developed using software created by Tcoder-beelzebub and The Infi Dev Team.
+   ```
+
+## 6. **Disclaimer**
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
