@@ -14,7 +14,7 @@ This project provides a simple graphical user interface (GUI) for installing and
 - [Dependencies](#dependencies)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
+- [SDUC_License](#license)
 
 ## Features
 
