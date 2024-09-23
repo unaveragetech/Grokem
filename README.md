@@ -83,5 +83,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](SDUC License) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](SDUC_License) file for more details.
 
