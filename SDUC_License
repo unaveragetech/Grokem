@@ -1,3 +1,7 @@
+Here's an updated version of your SDUC License with the requested clarifications in points 1-3:
+
+---
+
 # SDUC License (Small Dev Use Clause)
 
 **Copyright (c) 2024 Jesse Winghart**
@@ -9,11 +13,17 @@ Permission is hereby granted, free of charge, to any **small developer** or **co
    - **Use**, **copy**, **modify**, **merge**, **publish**, and **distribute** the Software.
    - **Sublicense** or **sell** copies of the Software only for **non-commercial**, **personal**, or **creative projects**.
 
+   ### Definition of **Small Developer**:
+   A **small developer** is defined as an individual or organization with fewer than 10 employees or less than $500,000 USD in annual revenue. This clause applies to both independent developers and small startups.
+
 ## 2. **Production Use (Commercial)**
    - Any use of the Software for **commercial purposes**, **profit generation**, or **production deployment** (including within a business, product, or corporate setting) is **prohibited** unless proper **attribution** is given to:
      - **Tcoder-beelzebub**
      - **The Infi Dev Team**
    - Attribution must be prominently displayed in any documentation, credits, or public material accompanying the project.
+   
+   ### Clarification on Attribution:
+   The attribution must be displayed in a clearly visible location, such as the project's **documentation**, **product credits**, or on a **public-facing page** (such as an "About" section of a website or software). The attribution must remain in place for as long as the Software is used in the project.
 
 ## 3. **Fair Use Clause**
    The following are considered **Fair Use** under this license:
@@ -23,7 +33,7 @@ Permission is hereby granted, free of charge, to any **small developer** or **co
 
 ## 4. **Restrictions**
    - **Commercial Use Without Attribution**: Any commercial, for-profit, or production-related use of the Software **without attribution** to **Tcoder-beelzebub** or **The Infi Dev Team** is strictly **prohibited**.
-   - **Reselling as a Product**: The Software cannot be repackaged and sold as a standalone product or service without explicit written permission.
+   - **Reselling as a Product**: The Software cannot be repackaged and sold as a standalone product or service without explicit written permission. To request permission, contact **Jesse Winghart** via the preferred communication method listed in the project documentation.
    - **Misrepresentation**: Users of the Software are prohibited from misrepresenting the origin or authorship of the code.
 
 ## 5. **Attribution**
@@ -36,3 +46,5 @@ Permission is hereby granted, free of charge, to any **small developer** or **co
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
+
+This version includes the added definitions for "small developer," clarification on where attribution should appear, and a method for requesting explicit written permission for reselling the software. Let me know if you'd like further changes!
